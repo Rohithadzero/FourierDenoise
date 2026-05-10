@@ -22,6 +22,9 @@ A Windows desktop application that demonstrates how **Fourier Transform** and **
 | **Fourier Transform** | FFT as a linear map F: ℝⁿ → ℂⁿ |
 | **SVD** | Rank-k approximation for optimal subspace projection |
 
+## 🎓 Academic Context
+This project was built as a part of my CIE assessment. The goal of the project was to bridge the gap between theoretical linear algebra (such as vector spaces and orthogonal bases) and practical, computational applications like audio signal processing.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
