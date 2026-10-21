@@ -5,3 +5,5 @@ __pycache__/
 *.pyd
 timedomaintofrequencydomain.png
 presentation_script.md
+dist/
+build/
