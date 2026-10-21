@@ -1,0 +1,75 @@
+('C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+ 'project\\FourierDenoise\\build\\FourierDenoise\\FourierDenoise.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_setuptools',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py',
+   'PYSOURCE'),
+  ('pyi_rth_mplconfig',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('main',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa project\\FourierDenoise\\main.py',
+   'PYSOURCE')],
+ 'python315.dll',
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)

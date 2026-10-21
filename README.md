@@ -65,6 +65,7 @@ python main.py
 - **Matplotlib** — Embedded visualizations
 - **SoundFile / SoundDevice** — Audio I/O and playback
 
+### Screenshots
 ## 📄 License
 
 MIT License

@@ -260,10 +260,13 @@ class AudioEngine:
             0.15 * np.sin(2 * np.pi * 880 * t)      # A5 (octave)
         )
 
-        # Add gentle envelope (fade in/out)
+        # Add gentle envelope (fade in/out), after a silent lead-in so the
+        # denoisers' noise estimate (taken from the first 0.5s) sees only noise
         envelope = np.ones_like(t)
+        lead_in = int(0.5 * sr)
         fade_len = int(0.1 * sr)
-        envelope[:fade_len] = np.linspace(0, 1, fade_len)
+        envelope[:lead_in] = 0
+        envelope[lead_in:lead_in + fade_len] = np.linspace(0, 1, fade_len)
         envelope[-fade_len:] = np.linspace(1, 0, fade_len)
         signal *= envelope
 

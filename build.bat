@@ -59,7 +59,7 @@ set VERIFY_FAIL=0
 
 for %%L in (customtkinter numpy scipy matplotlib soundfile sounddevice PIL) do (
     python -c "import %%L" >nul 2>&1
-    if %ERRORLEVEL% neq 0 (
+    if errorlevel 1 (
         echo        [MISSING] %%L
         set VERIFY_FAIL=1
     ) else (
@@ -67,13 +67,22 @@ for %%L in (customtkinter numpy scipy matplotlib soundfile sounddevice PIL) do (
     )
 )
 
+if %VERIFY_FAIL% neq 0 (
+    echo [ERROR] One or more core libraries failed to import.
+    pause
+    exit /b 1
+)
 echo        All core libraries installed!
 echo.
 
 REM Build with PyInstaller
 echo [5/5] Building with PyInstaller...
-pyinstaller --onedir --windowed --name FourierDenoise ^
-  --add-data "samples;samples" ^
+REM Only bundle the samples folder if it exists
+set EXTRA_DATA=
+if exist "samples\" set EXTRA_DATA=--add-data "samples;samples"
+
+python -m PyInstaller --onedir --windowed --name FourierDenoise ^
+  %EXTRA_DATA% ^
   --noconfirm ^
   main.py
 

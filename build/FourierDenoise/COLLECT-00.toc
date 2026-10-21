@@ -1,0 +1,1576 @@
+([('FourierDenoise.exe',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\FourierDenoise.exe',
+   'EXECUTABLE'),
+  ('PIL\\_avif.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PIL\\_avif.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imaging.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PIL\\_imaging.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PIL\\_imagingcms.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PIL\\_imagingtk.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('PIL\\_webp.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\PIL\\_webp.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('_asyncio.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('_bz2.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_cffi_backend.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_cffi_backend.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_lzma.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_queue.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_sounddevice_data\\portaudio-binaries\\README.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\README.md',
+   'DATA'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio.dylib',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio.dylib',
+   'DATA'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio32bit-asio.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio32bit-asio.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio32bit.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio32bit.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio64bit-asio.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio64bit-asio.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudio64bit.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudio64bit.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudioarm64-asio.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudioarm64-asio.dll',
+   'BINARY'),
+  ('_sounddevice_data\\portaudio-binaries\\libportaudioarm64.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_sounddevice_data\\portaudio-binaries\\libportaudioarm64.dll',
+   'BINARY'),
+  ('_soundfile_data\\COPYING',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_soundfile_data\\COPYING',
+   'DATA'),
+  ('_soundfile_data\\libsndfile_x64.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\_soundfile_data\\libsndfile_x64.dll',
+   'BINARY'),
+  ('_ssl.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('_tkinter.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_tkinter.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_uuid.pyd',
+   'EXTENSION'),
+  ('_wmi.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_wmi.pyd',
+   'EXTENSION'),
+  ('_zstd.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\_zstd.pyd',
+   'EXTENSION'),
+  ('base_library.zip',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\build\\FourierDenoise\\base_library.zip',
+   'DATA'),
+  ('contourpy\\_contourpy.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\contourpy\\_contourpy.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('customtkinter\\assets\\.DS_Store',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\CustomTkinter_shapes_font.otf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Medium.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\fonts\\Roboto\\Roboto-Regular.ttf',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\.DS_Store',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\.DS_Store',
+   'DATA'),
+  ('customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\icons\\CustomTkinter_icon_Windows.ico',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\blue.json',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\dark-blue.json',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\dark-blue.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\gold.json',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\gold.json',
+   'DATA'),
+  ('customtkinter\\assets\\themes\\green.json',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\customtkinter\\assets\\themes\\green.json',
+   'DATA'),
+  ('dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\dateutil\\zoneinfo\\dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('kiwisolver\\_cext.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\kiwisolver\\_cext.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('libcrypto-3.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libcrypto-3.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-3.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libssl-3.dll',
+   'BINARY'),
+  ('libtommath.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\libtommath.dll',
+   'BINARY'),
+  ('matplotlib\\_c_internal_utils.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\_c_internal_utils.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_image.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\_image.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_path.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\_path.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_qhull.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\_qhull.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\_tri.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\_tri.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\backends\\_backend_agg.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\backends\\_backend_agg.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\backends\\_tkagg.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\backends\\_tkagg.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\ft2font.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\ft2font.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmex10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmmi10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmr10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmsy10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmti10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmti10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\cmtt10.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagdo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagk8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pagko8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkd8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkdi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pbkli8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrbo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pcrro8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvb8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvbo8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvl8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvlo8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvr8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\phvro8an.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pncri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pplri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\psyr.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\ptmri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putb8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putbi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putr8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\putri8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzcmi8a.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\afm\\pzdr.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Courier.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica-Oblique.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Helvetica.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Symbol.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Bold.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-BoldItalic.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Italic.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\Times-Roman.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\ZapfDingbats.afm',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\pdfcorefonts\\readme.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSans.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono-Oblique.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSansMono.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Bold.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-BoldItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif-Italic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerif.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\DejaVuSerifDisplay.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_DEJAVU',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LICENSE_STIX',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\LastResortHE-Regular.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\LastResortHE-Regular.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneral.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXGeneralItalic.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUni.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniBolIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXNonUniIta.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFiveSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizFourSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizOneSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizThreeSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymBol.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\STIXSizTwoSymReg.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmb10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmex10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmmi10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmr10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmss10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmsy10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmti10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmti10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\fonts\\ttf\\cmtt10.ttf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\back_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\back_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\filesave_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\filesave_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\forward_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\forward_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\hand.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\hand.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\help_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\help_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\home_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\home_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\matplotlib_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\move_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\move_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\qt4_editor_options_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\subplots_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\subplots_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect-symbolic.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.pdf',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect.svg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\images\\zoom_to_rect_large.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\kpsewhich.lua',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\kpsewhich.lua',
+   'DATA'),
+  ('matplotlib\\mpl-data\\matplotlibrc',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\matplotlibrc',
+   'DATA'),
+  ('matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\plot_directive\\plot_directive.css',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Minduka_Present_Blue_Pack.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\README.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\README.txt',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\Stocks.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\axes_grid\\bivariate_normal.npy',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\data_x_x2_x3.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\eeg.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\embedding_in_wx3.xrc',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\goog.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\grace_hopper.jpg',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\jacksboro_fault_dem.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\logo2.png',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\membrane.dat',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\msft.csv',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\s1045.ima.gz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\sample_data\\topobathy.npz',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\Solarize_Light2.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_classic_test_patch.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery-nogrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\_mpl-gallery.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\bmh.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\classic.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\dark_background.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fast.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\fivethirtyeight.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\ggplot.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\grayscale.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\petroff10.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\petroff10.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\petroff6.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\petroff6.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\petroff8.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\petroff8.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-bright.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-colorblind.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark-palette.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-dark.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-darkgrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-deep.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-muted.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-notebook.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-paper.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-pastel.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-poster.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-talk.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-ticks.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-white.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8-whitegrid.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\seaborn-v0_8.mplstyle',
+   'DATA'),
+  ('matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\matplotlib\\mpl-data\\stylelib\\tableau-colorblind10.mplstyle',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\DELVEWHEEL',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\DELVEWHEEL',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\INSTALLER',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\INSTALLER',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\METADATA',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\METADATA',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\RECORD',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\RECORD',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\REQUESTED',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\REQUESTED',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\WHEEL',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\WHEEL',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\entry_points.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\entry_points.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\LICENSE.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\include\\numpy\\libdivide\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\common\\pythoncapi-compat\\COPYING',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\highway\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\multiarray\\dragon4_LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\npysort\\x86-simd-sort\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\_core\\src\\umath\\svml\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\fft\\pocketfft\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\linalg\\lapack_lite\\LICENSE.txt',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\ma\\LICENSE',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\distributions\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\mt19937\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\pcg64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\philox\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\sfc64\\LICENSE.md',
+   'DATA'),
+  ('numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy-2.5.4.dist-info\\licenses\\numpy\\random\\src\\splitmix64\\LICENSE.md',
+   'DATA'),
+  ('numpy.libs\\libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-ed4f167a5330424524f45258e7ca2c8d.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy.libs\\msvcp140-a4c2229bdc2a2a630acdc095b4d86008.dll',
+   'BINARY'),
+  ('numpy\\_core\\_multiarray_tests.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_common.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_generator.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_philox.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('python315.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\python315.dll',
+   'BINARY'),
+  ('scipy.libs\\libscipy_openblas-197ee2fc9b4d071f7e048078cac74115.dll',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy.libs\\libscipy_openblas-197ee2fc9b4d071f7e048078cac74115.dll',
+   'BINARY'),
+  ('scipy\\_cyutility.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\_cyutility.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_ccallback_c.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\_lib\\_ccallback_c.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_fpumode.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\_lib\\_fpumode.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_uarray\\_uarray.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\_lib\\_uarray\\_uarray.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\messagestream.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\_lib\\messagestream.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\fft\\_duccfft\\pyduccfft.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\fft\\_duccfft\\pyduccfft.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_dop.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\integrate\\_dop.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_odepack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\integrate\\_odepack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_quadpack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\integrate\\_quadpack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_vode.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\integrate\\_vode.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_dierckx.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_dierckx.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_fitpack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_interpnd.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_interpnd.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_ppoly.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_ppoly.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rbfinterp_pythran.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp_pythran.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rgi_cython.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\interpolate\\_rgi_cython.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_batched_linalg.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_batched_linalg.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_cythonized_array_utils.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_cythonized_array_utils.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_interpolative.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_interpolative.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_update.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_update.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_fblas.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_fblas.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_flapack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_flapack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_internal_matfuncs.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_internal_matfuncs.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_linalg_pythran.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_linalg_pythran.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_sqrtm_triu.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm_triu.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_solve_toeplitz.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\_solve_toeplitz.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_blas.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\cython_blas.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_lapack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\linalg\\cython_lapack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_nd_image.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\ndimage\\_nd_image.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_ni_label.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\ndimage\\_ni_label.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_rank_filter_1d.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\ndimage\\_rank_filter_1d.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_bglu_dense.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_bglu_dense.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_direct.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_direct.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_group_columns.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_group_columns.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highspy\\_core.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_highspy\\_core.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highspy\\_highs_options.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_highspy\\_highs_options.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lbfgsb.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_lbfgsb.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsap.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsap.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsq\\givens_elimination.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\givens_elimination.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_minpack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_minpack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_moduleTNC.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_moduleTNC.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_pava_pybind.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_pava_pybind.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_slsqplib.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_slsqplib.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_trlib\\_trlib.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_trlib\\_trlib.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_zeros.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\optimize\\_zeros.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_max_len_seq_inner.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_peak_finding_utils.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_peak_finding_utils.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sigtools.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_sigtools.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sosfilt.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_sosfilt.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_spline.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_spline.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_upfirdn_apply.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\signal\\_upfirdn_apply.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_csparsetools.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\_csparsetools.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_sparsetools.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\_sparsetools.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_flow.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_flow.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_matching.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_matching.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_min_spanning_tree.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_min_spanning_tree.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_reordering.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_shortest_path.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_shortest_path.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_tools.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_tools.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_traversal.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_dsolve\\_superlu.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_superlu.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_eigen\\arpack\\_arpacklib.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\_arpacklib.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_ckdtree.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_ckdtree.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_pybind.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_distance_pybind.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_wrap.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_distance_wrap.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_hausdorff.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_hausdorff.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_qhull.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_qhull.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_voronoi.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\_voronoi.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\transform\\_rigid_transform_cy.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rigid_transform_cy.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\transform\\_rotation_cy.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_cy.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_comb.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_comb.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ellip_harm_2.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_ellip_harm_2.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_gufuncs.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_gufuncs.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_specfun.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_specfun.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_special_ufuncs.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_special_ufuncs.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_ufuncs.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs_cxx.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\_ufuncs_cxx.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\cython_special.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\special\\cython_special.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_ansari_swilk_statistics.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_ansari_swilk_statistics.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_biasedurn.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_biasedurn.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_levy_stable\\levyst.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_levy_stable\\levyst.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_qmc_cy.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_qmc_cy.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_qmvnt_cy.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_qmvnt_cy.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_rcont\\rcont.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_rcont\\rcont.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_sobol.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_sobol.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_stats.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats_pythran.cp315-win_amd64.pyd',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\scipy\\stats\\_stats_pythran.cp315-win_amd64.pyd',
+   'EXTENSION'),
+  ('select.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('setuptools\\_vendor\\jaraco\\text\\Lorem ipsum.txt',
+   'C:\\01ZEPHYRUS\\Kuchbhi\\Chota sa '
+   'project\\FourierDenoise\\venv\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\Lorem '
+   'ipsum.txt',
+   'DATA'),
+  ('tcl90.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\tcl90.dll',
+   'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
+  ('unicodedata.pyd',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('zlib1.dll',
+   'C:\\Users\\rohit\\AppData\\Local\\Programs\\Python\\Python315\\DLLs\\zlib1.dll',
+   'BINARY')],)
